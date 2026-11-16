@@ -1,0 +1,11 @@
+CREATE DATABASE RetailDW;
+GO
+
+USE RetailDW;
+GO
+
+CREATE SCHEMA raw;
+GO
+
+
+
